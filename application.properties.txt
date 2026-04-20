@@ -1,0 +1,26 @@
+# 必填项、机器人token，不知道，自行google tg机器人创建
+bot.token=xxx
+
+# 可选项
+# 开启tg视频转存115需要apiId、apiHash这两个参数，没有请到 https://my.telegram.org/ 申请
+bot.apiId=xxx
+bot.apiHash=xxx
+
+# 可选项
+# 许愿树开关
+xyssWitch=true
+# 答谢空间，单位：GB
+rewardSpace=5
+# 许愿定时器，从1点开始每8小时的10分钟执行
+wishcron=0 10 1/8 * * ?
+# 助愿定时器，从1点开始每8小时的15分钟执行
+replycron=0 15 1/8 * * ?
+# 采纳定时器，从1点开始每8小时的20分钟执行
+adoptcron=0 20 1/8 * * ?
+# 许愿树账号不能重复
+# 助愿账号
+reply1=cookie1
+reply2=cookie2
+# 许愿账号
+wish1=cookie1
+wish2=cookie2
