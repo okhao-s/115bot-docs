@@ -79,10 +79,7 @@ docker run -d \
 
 ## ⚠️ 注意事项
 
-- 配置文件中的 `cookie` 是 115 网盘的登录凭证，请妥善保管
 - Telegram API ID 和 API Hash 需要到 [https://my.telegram.org/](https://my.telegram.org/) 申请
-- 定时器格式为 cron 表达式，可根据需要自定义
-- 首次登录默认密码为 `changeme`，进入后请立即修改
 
 ---
 
@@ -91,3 +88,5 @@ docker run -d \
 - [115bot 官方镜像](https://hub.docker.com/r/len996/115bot)
 - [Telegram Bot API 文档](https://core.telegram.org/bots/api)
 - [Subsonic API 规范](https://www.subsonic.org/pages/api.jsp)
+
+- 
