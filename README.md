@@ -3,7 +3,7 @@
 ## 📋 前置要求
 
 - Docker 已安装并运行
-- Telegram Bot Token（从 [@BotFather](https://t.me/BotFather) 获取）
+- Telegram Bot Token（从 [@BotFather](https://t.me/BotFather) 获取）用于tg交互以及cookies配置
 - Telegram API ID 和 API Hash（从 [https://my.telegram.org/](https://my.telegram.org/) 申请，**可选**）
 
 ---
@@ -73,7 +73,7 @@ docker run -d \
 
 ## 🌐 访问地址
 
-部署成功后，访问 `http://<服务器IP>:8001` 即可使用。
+部署成功后，tg机器人即可交互 
 
 ---
 
