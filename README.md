@@ -90,12 +90,3 @@ docker run -d \
 - [Subsonic API 规范](https://www.subsonic.org/pages/api.jsp)
 
 - 
-
-## 图片展示
-无限流量代挂  api申请
-
-![图片 1](assets/images/1998c029afe7f8d5e9064cd7f6ff7c2a.jpg)
-
-界面展示
-
-![图片 2](assets/images/3ce5671d91e4d6af2cac4992bb5feeba.png)
